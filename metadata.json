@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Crop Yield Prediction AI",
+  "description": "An application that uses a machine learning model to predict crop yield based on environmental and agricultural factors like rainfall, temperature, fertilizer use, soil type, and more.",
+  "requestFramePermissions": []
+}
